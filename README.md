@@ -25,7 +25,6 @@ I am a passionate developer dedicated to building beautiful web applications and
 </p>
 
 * 💻 **What I do:** Full Stack Web Development and Discord Bot Development
-* ⚡ **Fun fact:** I absolutely love cute pink and white themes! 🤍🩷
 
 ---
 
