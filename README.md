@@ -56,7 +56,7 @@ I am a passionate developer dedicated to building beautiful web applications and
     <td>
       <h3>🌸 Project Name</h3>
       <p><strong>Status:</strong> 🛠️ Work in Progress | <strong>Role:</strong> Lead Developer</p>
-      <p>A beautiful full-stack web application with dynamic animations and an engaging user interface. Built with React and Node.js.</p>
+      <p>A beautiful full-stack web application with dynamic animations and an engaging user interface. Built with Next.js </p>
       <a href="https://github.com/viralshorts12345678">
         <img src="https://img.shields.io/badge/View%20Repository-GitHub-FF69B4?style=flat-square&logo=github" alt="GitHub"/>
       </a>
@@ -66,7 +66,7 @@ I am a passionate developer dedicated to building beautiful web applications and
     <td>
       <h3>🤖 Custom Discord Bot</h3>
       <p><strong>Status:</strong> ✅ Completed | <strong>Role:</strong> Creator</p>
-      <p>An interactive and engaging Discord bot built using Discord.js. Features fun commands, moderation </p>
+      <p>An interactive and engaging Discord bot built using Discord.js. Features fun commands, moderation tools </p>
       <a href="https://github.com/viralshorts12345678">
         <img src="https://img.shields.io/badge/View%20Repository-GitHub-FFB6C1?style=flat-square&logo=github" alt="GitHub"/>
       </a>
